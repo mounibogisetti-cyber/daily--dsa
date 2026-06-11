@@ -12,7 +12,7 @@
 
 * Day: 2
 * Current Streak: 2 day
-* Problems Solved: 1
+* Problems Solved: 2
 
 ---
 
