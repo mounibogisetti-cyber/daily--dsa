@@ -5,8 +5,10 @@ public:
     int maxSubArray(vector<int>& nums) {
         int sum=0;
         int maxi=0;
-
         for(int i=0;i<nums.size();i++){
+            if(sum==0){
+                sum=i;
+            }
             sum+=nums[i];
             maxi=max(maxi,sum);
             if(sum<=0){
