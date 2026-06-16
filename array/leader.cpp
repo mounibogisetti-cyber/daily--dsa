@@ -12,6 +12,7 @@ vector<int> leaders(int a[], int n) {
     }
     i--;
     }
-    reverse(a.begin(), a.end());
+    reverse(mp.begin(), mp.end());
+
     return mp;
 }
