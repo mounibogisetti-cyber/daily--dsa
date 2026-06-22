@@ -10,9 +10,8 @@
 
 ## Current Stats
 
-* Day: 5
-* Current Streak: 5 day
-* Problems Solved: 3
+* Current Streak: 6 day
+* Problems Solved: 1
 
 ---
 
